@@ -1,0 +1,161 @@
+{
+    "semester": {
+        "name": "Summer 2026",
+        "start_date": "2026-05-06",
+        "end_date": "2026-06-18"
+    },
+    "courses": [
+        {
+            "id": "crs-69f3eeab589ed3.56680852",
+            "code": "PSYC25000A",
+            "name": "Foundations of Developmental Psychology"
+        },
+        {
+            "id": "crs-69f3ef3406f6e2.84897631",
+            "code": "SXST3103",
+            "name": "Sexuality and Disability"
+        },
+        {
+            "id": "crs-69f3efb5a1fef7.26874751",
+            "code": "NEUR2801A",
+            "name": "Neuroscience and Creativity"
+        }
+    ],
+    "events": [
+        {
+            "id": "evt-demo-1",
+            "title": "Quiz 1",
+            "course": "PSYC2100",
+            "category": "quiz",
+            "date": "2026-02-05",
+            "done": true
+        },
+        {
+            "id": "evt-demo-2",
+            "title": "Research summary",
+            "course": "PSYC2100",
+            "category": "assignment",
+            "date": "2026-03-01",
+            "done": false
+        },
+        {
+            "id": "evt-demo-3",
+            "title": "Midterm",
+            "course": "STAT1001",
+            "category": "exam",
+            "date": "2026-03-15",
+            "done": false
+        },
+        {
+            "id": "evt-69f3eef57f9b84.82402704",
+            "title": "Midterm 1",
+            "course": "PSYC25000A",
+            "category": "exam",
+            "date": "2026-05-22",
+            "done": false
+        },
+        {
+            "id": "evt-69f3ef07a7e292.73281426",
+            "title": "Midterm 2",
+            "course": "PSYC25000A",
+            "category": "exam",
+            "date": "2026-06-05",
+            "done": false
+        },
+        {
+            "id": "evt-69f3ef17677491.80667013",
+            "title": "Final Exam",
+            "course": "PSYC25000A",
+            "category": "exam",
+            "date": "2026-06-18",
+            "done": false
+        },
+        {
+            "id": "evt-69f3ef68336281.21234685",
+            "title": "Reaction Paper",
+            "course": "SXST3103",
+            "category": "paper",
+            "date": "2026-06-01",
+            "done": false
+        },
+        {
+            "id": "evt-69f3ef7ee8b1d7.74496926",
+            "title": "Group Project",
+            "course": "SXST3103",
+            "category": "project",
+            "date": "2026-06-18",
+            "done": false
+        },
+        {
+            "id": "evt-69f3ef908c9840.15625674",
+            "title": "Cultural Artifact Assignment",
+            "course": "SXST3103",
+            "category": "assignment",
+            "date": "2026-06-18",
+            "done": false
+        },
+        {
+            "id": "evt-69f3efd0372414.66486866",
+            "title": "Part 1: Online Assignment",
+            "course": "NEUR2801A",
+            "category": "project",
+            "date": "2026-05-30",
+            "done": false
+        },
+        {
+            "id": "evt-69f3efeb8f2f61.66723076",
+            "title": "Part 2: Online Assignment",
+            "course": "NEUR2801A",
+            "category": "project",
+            "date": "2026-06-18",
+            "done": false
+        },
+        {
+            "id": "evt-69f3effd252bb2.92166176",
+            "title": "Quiz 1",
+            "course": "NEUR2801A",
+            "category": "quiz",
+            "date": "2026-05-10",
+            "done": false
+        },
+        {
+            "id": "evt-69f3f00a826001.72349257",
+            "title": "Quiz 2",
+            "course": "NEUR2801A",
+            "category": "quiz",
+            "date": "2026-05-17",
+            "done": false
+        },
+        {
+            "id": "evt-69f3f01a3aefd7.85729326",
+            "title": "Quiz 3",
+            "course": "NEUR2801A",
+            "category": "quiz",
+            "date": "2026-05-24",
+            "done": false
+        },
+        {
+            "id": "evt-69f3f028b4ac61.09020496",
+            "title": "Quiz 4",
+            "course": "NEUR2801A",
+            "category": "quiz",
+            "date": "2026-06-07",
+            "done": false
+        },
+        {
+            "id": "evt-69f3f03d5a4790.77378200",
+            "title": "Final Exam",
+            "course": "NEUR2801A",
+            "category": "exam",
+            "date": "2026-06-21",
+            "done": false
+        }
+    ],
+    "categories": [
+        "assignment",
+        "quiz",
+        "project",
+        "exam",
+        "paper"
+    ]
+}
